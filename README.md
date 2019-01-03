@@ -31,9 +31,13 @@ You can find a blog post consist of data analysis results [here](https://medium.
 
 # Python Libraries
 • numpy 
+
 • pandas 
+
 • matplotlib.pyplot
+
 • display
+
 • seaborn
 
 # Results (Recommendation):
