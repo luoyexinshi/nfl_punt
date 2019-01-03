@@ -15,18 +15,23 @@ Each dataset can be merged on the game, play or player level using the provided 
 # Files:
 
 • play_information.csv
+
 Play level data that describes the type of play, possession team, score and a brief narrative of each play. Plays are uniquely identified using a its PlayID along with the corresponding GameKey. PlayIDs are not unique.
 
 • player_punt_data.csv
+
 Player level data that specifies the traditional football position for each player. Each player is identified using his GSISID.
 
 • video_review.csv
+
 Injury level data that provides a detailed description of the concussion-producing event. Video Review data are only available in cases in which the injury play can be identified. Each video review case can be identified using a combination of GameKey, PlayID, and GSISID. A brief narrative of the play events is provided.
 
 • nfl_project.ipynb
+
 Data analysis in Python. This was required for project submission in Udacity's Data Scientist Nanodegree program. 
 
 • Medium blog post
+
 You can find a blog post consist of data analysis results [here](https://medium.com/@luoyexinshi/how-to-protect-nfl-players-from-concussion-during-punt-plays-c38945608cb)
 
 # Python Libraries
